@@ -1,4 +1,0 @@
-fazer pull request
-commits com frenquencia
-clonar direitorio para local
-pull para atualizar informações
